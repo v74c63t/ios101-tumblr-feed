@@ -2,9 +2,9 @@
 
 Submitted by: **Vanessa Tang**
 
-**Tumblr Feed** is an app that ... [TODO] 
+**Tumblr Feed** is an app that fetches data from the humans of new york tumblr blog and displays that data in a table view.
 
-Time spent: **X** hours spent in total <1
+Time spent: **1** hours spent in total
 
 ## Required Features
 
@@ -25,13 +25,16 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+<!--Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .-->
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+- I did not encounter any particular challenges while building the app
 
 ## License
 
