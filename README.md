@@ -29,9 +29,12 @@ The following **additional** features are implemented:
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .-->
 <img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+- I did not encounter any particular challenges while building the app
 
 ## License
 
