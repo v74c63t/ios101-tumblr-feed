@@ -2,9 +2,9 @@
 
 Submitted by: **Vanessa Tang**
 
-**Tumblr Feed** is an app that ... [TODO] 
+**Tumblr Feed** is an app that fetches data from the humans of new york tumblr blog and displays that data in a table view.
 
-Time spent: **X** hours spent in total <1
+Time spent: **1** hours spent in total
 
 ## Required Features
 
